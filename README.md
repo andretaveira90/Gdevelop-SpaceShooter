@@ -18,6 +18,9 @@
 	shift esquerdo
 
 
+### Movimentar nave: 
+	setas do teclado
+
 ### Pausar jogo: 
 	esc
 	
